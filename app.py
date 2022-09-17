@@ -49,7 +49,7 @@ a = input()
 
 while True:
     clear_screen()
-    print("AApps Backuper 1.0\n(by SashaKochetto 2022)\n\n")
+    print("AApps Backuper 1.0.0\n(by SashaKochetto 2022)\n\n")
     print("Select an action:\n1 - Create Backup\n2 - Restore\n3 - Show list installed apps\n4 - Exit")
     a = input()
     if a == "1":
